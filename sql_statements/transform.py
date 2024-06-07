@@ -1,3 +1,4 @@
+
 fact_market_data = '''
     INSERT INTO prod.fact_market_data (
         symbol_id
@@ -26,6 +27,7 @@ FROM dev.commodities a join prod.dim_symbols b on a.symbol = b.name and b.cat_id
 ) as x
 order by symbol_id;
 '''
+
 
 dim_categories = '''
     INSERT INTO prod.dim_categories (name)
