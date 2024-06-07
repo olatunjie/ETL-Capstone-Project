@@ -1,0 +1,182 @@
+{
+    "C 1:COM": {
+        "name": "Corn (CBOT)",
+        "Units": "USd/bu.",
+        "Price": "456.50",
+        "Change": "+5.75",
+        "%Change": "+1.28%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "W 1:COM": {
+        "name": "Wheat (CBOT)",
+        "Units": "USd/bu.",
+        "Price": "598.75",
+        "Change": "-0.50",
+        "%Change": "-0.08%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "O 1:COM": {
+        "name": "Oats (CBOT)",
+        "Units": "USd/bu.",
+        "Price": "382.00",
+        "Change": "+4.50",
+        "%Change": "+1.19%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:53 PM"
+    },
+    "RR1:COM": {
+        "name": "Rough Rice (CBOT)",
+        "Units": "USD/cwt",
+        "Price": "18.42",
+        "Change": "-0.82",
+        "%Change": "-4.29%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:52 PM"
+    },
+    "S 1:COM": {
+        "name": "Soybean (CBOT)",
+        "Units": "USd/bu.",
+        "Price": "1,196.75",
+        "Change": "+26.50",
+        "%Change": "+2.26%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:57 PM"
+    },
+    "SM1:COM": {
+        "name": "Soybean Meal (CBOT)",
+        "Units": "USD/T.",
+        "Price": "363.00",
+        "Change": "+14.00",
+        "%Change": "+4.01%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "BO1:COM": {
+        "name": "Soybean Oil (CBOT)",
+        "Units": "USd/lb.",
+        "Price": "43.34",
+        "Change": "+0.08",
+        "%Change": "+0.18%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "RS1:COM": {
+        "name": "Canola (ICE)",
+        "Units": "CAD/MT",
+        "Price": "636.70",
+        "Change": "+11.00",
+        "%Change": "+1.76%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:57 PM"
+    },
+    "CC1:COM": {
+        "name": "Cocoa (ICE)",
+        "Units": "USD/MT",
+        "Price": "7,318.00",
+        "Change": "-966.00",
+        "%Change": "-11.66%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "KC1:COM": {
+        "name": "Coffee 'C' (ICE)",
+        "Units": "USd/lb.",
+        "Price": "205.00",
+        "Change": "-11.00",
+        "%Change": "-5.09%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "SB1:COM": {
+        "name": "Sugar #11 (ICE)",
+        "Units": "USd/lb.",
+        "Price": "19.26",
+        "Change": "+0.04",
+        "%Change": "+0.21%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "12:59 PM"
+    },
+    "JO1:COM": {
+        "name": "Orange Juice (ICE)",
+        "Units": "USd/lb.",
+        "Price": "371.45",
+        "Change": "+1.45",
+        "%Change": "+0.39%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "CT1:COM": {
+        "name": "Cotton #2 (ICE)",
+        "Units": "USd/lb.",
+        "Price": "75.60",
+        "Change": "-0.91",
+        "%Change": "-1.19%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "OL1:COM": {
+        "name": "Wool (ASX)",
+        "Units": "--",
+        "Price": "--",
+        "Change": "--",
+        "%Change": "--",
+        "Contract": "N/A",
+        "Time (EDT)": "--"
+    },
+    "LB1:COM": {
+        "name": "Lumber (CME)",
+        "Units": "USD/1000 board feet",
+        "Price": "--",
+        "Change": "--",
+        "%Change": "--",
+        "Contract": "N/A",
+        "Time (EDT)": "--"
+    },
+    "OR1:COM": {
+        "name": "Rubber (Singapore)",
+        "Units": "USd/kg",
+        "Price": "160.80",
+        "Change": "+0.50",
+        "%Change": "+0.31%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "5:59 AM"
+    },
+    "DL1:COM": {
+        "name": "Ethanol (CBOT)",
+        "Units": "USD/gal.",
+        "Price": "2.16",
+        "Change": "0.00",
+        "%Change": "0.00%",
+        "Contract": "May 2024",
+        "Time (EDT)": "5/1/2024"
+    },
+    "LC1:COM": {
+        "name": "Live Cattle (CME)",
+        "Units": "USd/lb.",
+        "Price": "177.08",
+        "Change": "+3.23",
+        "%Change": "+1.86%",
+        "Contract": "Jun 2024",
+        "Time (EDT)": "1:00 PM"
+    },
+    "FC1:COM": {
+        "name": "Feeder Cattle (CME)",
+        "Units": "USd/lb.",
+        "Price": "256.33",
+        "Change": "+4.58",
+        "%Change": "+1.82%",
+        "Contract": "Aug 2024",
+        "Time (EDT)": "1:00 PM"
+    },
+    "LH1:COM": {
+        "name": "Lean Hogs (CME)",
+        "Units": "USd/lb.",
+        "Price": "99.73",
+        "Change": "-0.70",
+        "%Change": "-0.70%",
+        "Contract": "Jun 2024",
+        "Time (EDT)": "1:00 PM"
+    }
+}

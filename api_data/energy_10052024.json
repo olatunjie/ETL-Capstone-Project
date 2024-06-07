@@ -1,0 +1,83 @@
+{
+    "CL1:COM": {
+        "name": "WTI Crude Oil (Nymex)",
+        "Units": "USD/bbl.",
+        "Price": "79.03",
+        "Change": "+0.03",
+        "%Change": "+0.04%",
+        "Contract": "Jun 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "CO1:COM": {
+        "name": "Brent Crude (ICE)",
+        "Units": "USD/bbl.",
+        "Price": "83.66",
+        "Change": "+0.22",
+        "%Change": "+0.26%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "CP1:COM": {
+        "name": "Crude Oil (Tokyo)",
+        "Units": "JPY/kl",
+        "Price": "81,140.00",
+        "Change": "-1,560.00",
+        "%Change": "-1.89%",
+        "Contract": "May 2024",
+        "Time (EDT)": "11:00 AM"
+    },
+    "NG1:COM": {
+        "name": "Natural Gas (Nymex)",
+        "Units": "USD/MMBtu",
+        "Price": "2.04",
+        "Change": "+0.10",
+        "%Change": "+5.38%",
+        "Contract": "Jun 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "XB1:COM": {
+        "name": "RBOB Gasoline (Nymex)",
+        "Units": "USd/gal.",
+        "Price": "258.87",
+        "Change": "+1.13",
+        "%Change": "+0.44%",
+        "Contract": "Jun 2024",
+        "Time (EDT)": "1:02 PM"
+    },
+    "HO1:COM": {
+        "name": "Heating Oil (Nymex)",
+        "Units": "USd/gal.",
+        "Price": "243.48",
+        "Change": "-1.71",
+        "%Change": "-0.70%",
+        "Contract": "Jun 2024",
+        "Time (EDT)": "1:02 PM"
+    },
+    "QS1:COM": {
+        "name": "Gasoil (Nymex)",
+        "Units": "USD/MT",
+        "Price": "744.25",
+        "Change": "-8.75",
+        "%Change": "-1.16%",
+        "Contract": "May 2024",
+        "Time (EDT)": "1:02 PM"
+    },
+    "JX1:COM": {
+        "name": "Kerosene (Tokyo)",
+        "Units": "JPY/kl",
+        "Price": "81,500.00",
+        "Change": "-1,500.00",
+        "%Change": "-1.81%",
+        "Contract": "Nov 2024",
+        "Time (EDT)": "12:00 AM"
+    },
+    "MO1:COM": {
+        "name": "ECX Emissions (ICE)",
+        "Units": "EUR/MT",
+        "Price": "72.51",
+        "Change": "+4.69",
+        "%Change": "+6.92%",
+        "Contract": "Dec 2024",
+        "Time (EDT)": "11:59 AM"
+    }
+}

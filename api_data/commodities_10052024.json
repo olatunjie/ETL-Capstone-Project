@@ -1,0 +1,182 @@
+{
+    "BCOMTR:IND": {
+        "name": "Bloomberg Commodity",
+        "Value": "235.62",
+        "Change": "+0.63",
+        "%Change": "+0.27%",
+        "High": "236.61",
+        "Low": "234.42",
+        "Time (EDT)": "1:10 PM"
+    },
+    "CMCITR:IND": {
+        "name": "UBS Bloomberg CMCI",
+        "Value": "1,593.59",
+        "Change": "+2.80",
+        "%Change": "+0.18%",
+        "High": "1,599.69",
+        "Low": "1,588.37",
+        "Time (EDT)": "1:11 PM"
+    },
+    "CRYTR:IND": {
+        "name": "Reuters/Jefferies CRB",
+        "Value": "332.07",
+        "Change": "-6.96",
+        "%Change": "-2.05%",
+        "High": "332.07",
+        "Low": "332.07",
+        "Time (EDT)": "5/1/2024"
+    },
+    "RICIGLTR:IND": {
+        "name": "Rogers International",
+        "Value": "3,859.58",
+        "Change": "+8.40",
+        "%Change": "+0.22%",
+        "High": "3,880.02",
+        "Low": "3,839.69",
+        "Time (EDT)": "1:10 PM"
+    },
+    "SPGSCITR:IND": {
+        "name": "S&P GSCI",
+        "Value": "3,650.65",
+        "Change": "-85.49",
+        "%Change": "-2.29%",
+        "High": "3,730.58",
+        "Low": "3,647.64",
+        "Time (EDT)": "5/1/2024"
+    },
+    "CL1:COM": {
+        "name": "WTI Crude Oil (Nymex)",
+        "Value": "USD/bbl.",
+        "Change": "79.01",
+        "%Change": "+0.01",
+        "High": "+0.01%",
+        "Low": "Jun 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "CO1:COM": {
+        "name": "Brent Crude (ICE)",
+        "Value": "USD/bbl.",
+        "Change": "83.67",
+        "%Change": "+0.23",
+        "High": "+0.28%",
+        "Low": "Jul 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "XB1:COM": {
+        "name": "RBOB Gasoline (Nymex)",
+        "Value": "USd/gal.",
+        "Change": "258.84",
+        "%Change": "+1.10",
+        "High": "+0.43%",
+        "Low": "Jun 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "NG1:COM": {
+        "name": "Natural Gas (Nymex)",
+        "Value": "USD/MMBtu",
+        "Change": "2.04",
+        "%Change": "+0.11",
+        "High": "+5.43%",
+        "Low": "Jun 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "HO1:COM": {
+        "name": "Heating Oil (Nymex)",
+        "Value": "USd/gal.",
+        "Change": "243.58",
+        "%Change": "-1.61",
+        "High": "-0.66%",
+        "Low": "Jun 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "GC1:COM": {
+        "name": "Gold (Comex)",
+        "Value": "USD/t oz.",
+        "Change": "2,308.90",
+        "%Change": "-2.10",
+        "High": "-0.09%",
+        "Low": "Jun 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "XAUUSD:CUR": {
+        "name": "Gold Spot",
+        "Value": "USD/t oz.",
+        "Change": "2,301.02",
+        "%Change": "-18.54",
+        "High": "-0.80%",
+        "Low": "N/A",
+        "Time (EDT)": "1:08 PM"
+    },
+    "SI1:COM": {
+        "name": "Silver (Comex)",
+        "Value": "USD/t oz.",
+        "Change": "26.82",
+        "%Change": "+0.07",
+        "High": "+0.27%",
+        "Low": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "HG1:COM": {
+        "name": "Copper (Comex)",
+        "Value": "USd/lb.",
+        "Change": "448.30",
+        "%Change": "-6.30",
+        "High": "-1.39%",
+        "Low": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "XPTUSD:CUR": {
+        "name": "Platinum Spot",
+        "Value": "USD/t oz.",
+        "Change": "954.80",
+        "%Change": "+0.88",
+        "High": "+0.09%",
+        "Low": "N/A",
+        "Time (EDT)": "1:08 PM"
+    },
+    "C 1:COM": {
+        "name": "Corn (CBOT)",
+        "Value": "USd/bu.",
+        "Change": "456.25",
+        "%Change": "+5.50",
+        "High": "+1.22%",
+        "Low": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "W 1:COM": {
+        "name": "Wheat (CBOT)",
+        "Value": "USd/bu.",
+        "Change": "598.75",
+        "%Change": "-0.50",
+        "High": "-0.08%",
+        "Low": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "CC1:COM": {
+        "name": "Cocoa (ICE)",
+        "Value": "USD/MT",
+        "Change": "7,380.00",
+        "%Change": "-904.00",
+        "High": "-10.91%",
+        "Low": "Jul 2024",
+        "Time (EDT)": "12:58 PM"
+    },
+    "CT1:COM": {
+        "name": "Cotton #2 (ICE)",
+        "Value": "USd/lb.",
+        "Change": "75.61",
+        "%Change": "-0.90",
+        "High": "-1.18%",
+        "Low": "Jul 2024",
+        "Time (EDT)": "12:57 PM"
+    },
+    "LC1:COM": {
+        "name": "Live Cattle (CME)",
+        "Value": "USd/lb.",
+        "Change": "177.05",
+        "%Change": "+3.20",
+        "High": "+1.84%",
+        "Low": "Jun 2024",
+        "Time (EDT)": "12:58 PM"
+    }
+}

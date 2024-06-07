@@ -1,0 +1,191 @@
+{
+    "GC1:COM": {
+        "name": "Gold (Comex)",
+        "Units": "USD/t oz.",
+        "Price": "2,309.90",
+        "Change": "-1.10",
+        "%Change": "-0.05%",
+        "Contract": "Jun 2024",
+        "Time (EDT)": "1:02 PM"
+    },
+    "JG1:COM": {
+        "name": "Gold (Tokyo)",
+        "Units": "JPY/g",
+        "Price": "11,395.00",
+        "Change": "-177.00",
+        "%Change": "-1.53%",
+        "Contract": "Apr 2025",
+        "Time (EDT)": "12:52 PM"
+    },
+    "XAUUSD:CUR": {
+        "name": "Gold Spot",
+        "Units": "USD/t oz.",
+        "Price": "2,302.09",
+        "Change": "-17.47",
+        "%Change": "-0.75%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:12 PM"
+    },
+    "XAUEUR:CUR": {
+        "name": "Gold/Euro Spot",
+        "Units": "EUR/t oz.",
+        "Price": "2,148.11",
+        "Change": "-14.59",
+        "%Change": "-0.67%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:12 PM"
+    },
+    "XAUGBP:CUR": {
+        "name": "Gold/British Pound Spot",
+        "Units": "GBP/t oz.",
+        "Price": "1,839.06",
+        "Change": "-11.75",
+        "%Change": "-0.63%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:12 PM"
+    },
+    "XAUJPY:CUR": {
+        "name": "Gold/Japanese Yen Spot",
+        "Units": "JPY/t oz.",
+        "Price": "353,890.50",
+        "Change": "-4,710.59",
+        "%Change": "-1.31%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:11 PM"
+    },
+    "XAUINR:CUR": {
+        "name": "Gold/Indian Rupee Spot",
+        "Units": "INR/t oz.",
+        "Price": "192,037.56",
+        "Change": "+1,227.13",
+        "%Change": "+0.64%",
+        "Contract": "N/A",
+        "Time (EDT)": "12:23 PM"
+    },
+    "SI1:COM": {
+        "name": "Silver (Comex)",
+        "Units": "USD/t oz.",
+        "Price": "26.83",
+        "Change": "+0.08",
+        "%Change": "+0.29%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "1:01 PM"
+    },
+    "JI1:COM": {
+        "name": "Silver (Tokyo)",
+        "Units": "JPY/gram",
+        "Price": "134.00",
+        "Change": "-1.10",
+        "%Change": "-0.81%",
+        "Contract": "Apr 2025",
+        "Time (EDT)": "12:00 AM"
+    },
+    "XAGUSD:CUR": {
+        "name": "Silver Spot",
+        "Units": "USD/t oz.",
+        "Price": "26.60",
+        "Change": "-0.05",
+        "%Change": "-0.21%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:12 PM"
+    },
+    "XAGEUR:CUR": {
+        "name": "Silver/Euro Spot",
+        "Units": "EUR/t oz.",
+        "Price": "24.81",
+        "Change": "-0.13",
+        "%Change": "-0.50%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:12 PM"
+    },
+    "XAGGBP:CUR": {
+        "name": "Silver/British Pound Spot",
+        "Units": "GBP/t oz.",
+        "Price": "21.25",
+        "Change": "-0.03",
+        "%Change": "-0.13%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:11 PM"
+    },
+    "XAGJPY:CUR": {
+        "name": "Silver/Japanese Yen Spot",
+        "Units": "JPY/t oz.",
+        "Price": "4,087.84",
+        "Change": "-32.43",
+        "%Change": "-0.79%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:11 PM"
+    },
+    "XAGINR:CUR": {
+        "name": "Silver/Indian Rupee Spot",
+        "Units": "INR/t oz.",
+        "Price": "2,215.19",
+        "Change": "+9.46",
+        "%Change": "+0.43%",
+        "Contract": "N/A",
+        "Time (EDT)": "12:23 PM"
+    },
+    "XPTUSD:CUR": {
+        "name": "Platinum Spot",
+        "Units": "USD/t oz.",
+        "Price": "955.42",
+        "Change": "+1.50",
+        "%Change": "+0.16%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:12 PM"
+    },
+    "XPDUSD:CUR": {
+        "name": "Palladium Spot",
+        "Units": "USD/t oz.",
+        "Price": "937.13",
+        "Change": "-15.12",
+        "%Change": "-1.59%",
+        "Contract": "N/A",
+        "Time (EDT)": "1:12 PM"
+    },
+    "HG1:COM": {
+        "name": "Copper (Comex)",
+        "Units": "USd/lb.",
+        "Price": "449.05",
+        "Change": "-5.55",
+        "%Change": "-1.22%",
+        "Contract": "Jul 2024",
+        "Time (EDT)": "1:00 PM"
+    },
+    "LMCADS03:COM": {
+        "name": "3Mo Copper (LME)",
+        "Units": "USD/MT",
+        "Price": "9,895.50",
+        "Change": "-95.50",
+        "%Change": "-0.96%",
+        "Contract": "N/A",
+        "Time (EDT)": "5/1/2024"
+    },
+    "LMAHDS03:COM": {
+        "name": "3Mo Aluminum (LME)",
+        "Units": "USD/MT",
+        "Price": "2,577.50",
+        "Change": "-14.00",
+        "%Change": "-0.54%",
+        "Contract": "N/A",
+        "Time (EDT)": "5/1/2024"
+    },
+    "LMZSDS03:COM": {
+        "name": "3Mo Zinc (LME)",
+        "Units": "USD/MT",
+        "Price": "2,881.00",
+        "Change": "-45.00",
+        "%Change": "-1.54%",
+        "Contract": "N/A",
+        "Time (EDT)": "5/1/2024"
+    },
+    "LMSNDS03:COM": {
+        "name": "3Mo Tin (LME)",
+        "Units": "USD/MT",
+        "Price": "30,603.00",
+        "Change": "-613.00",
+        "%Change": "-1.96%",
+        "Contract": "N/A",
+        "Time (EDT)": "5/1/2024"
+    }
+}
