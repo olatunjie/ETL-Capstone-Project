@@ -7,7 +7,7 @@ from utils.helper import read_other_data
 from utils.helper import create_bucket
 from utils.helper import Save_data_to_bucket
 from utils.helper import create_dwh_dev
-from utils.helper import create_local_dev_tables,transfer_data,copy_data_to_redshift
+from utils.helper import create_local_dev_tables,transfer_data,copy_data_to_redshift,create_dwh_star,copy_data_to_dwh
 
 
 
@@ -32,4 +32,8 @@ Save_data_to_bucket()
 create_dwh_dev()
 copy_data_to_redshift()
 
+# Copy Data to Prod Environment
+create_dwh_star()
+
 # Move Data to Datawarehouse
+copy_data_to_dwh()

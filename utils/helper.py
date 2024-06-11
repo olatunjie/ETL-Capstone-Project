@@ -14,6 +14,7 @@ from utils.categories import data_categories
 from utils.categories import data_categories_1
 from utils.categories import data_categories_2
 from sql_statements.create import dev_tables,transformed_tables,local_tables
+from sql_statements.transform import transformation_queries
 
 # Get today's date
 today = datetime.today()
@@ -47,7 +48,9 @@ dwh_database = config['DWH_CONN']['database']
 dwh_port = config['DWH_CONN']['port']
 #timeouttime = config['DWH_CONN']['timeout']
 
+
 dev_schema = config['MISC']['dev_schema']
+prod_schema = config['MISC']['prod_schema']
 staging_schema = config['MISC']['staging_schema']
 
 headers = {
@@ -202,6 +205,18 @@ def create_dwh_dev():
         cursor.execute(query)
         dwh_conn.commit()
 
+def create_dwh_star():
+    # Create the Schema
+    # print('---STEP 1---')
+    cursor = dwh_conn.cursor()
+    cursor.execute(f'CREATE SCHEMA {prod_schema}')
+    # print('---STEP 2---')
+    dwh_conn.commit()
+    # Create the tables
+    for query in transformed_tables:
+        cursor.execute(query)
+        dwh_conn.commit()
+
 def copy_data_to_redshift():
     for table in data_categories:
         transfer_data(dev_schema,table)
@@ -242,3 +257,10 @@ def transfer_data(schema_name,table_name):
     redshift_conn.commit()
     _cursor.close()
 #redshift_conn.close()
+
+
+def copy_data_to_dwh():
+    cursor = dwh_conn.cursor()
+    for query in transformation_queries:
+        cursor.execute(query)
+        dwh_conn.commit()
